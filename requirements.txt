@@ -1,0 +1,9 @@
+numpy
+tensorflow
+pandas
+scipy
+matplotlib
+netCDF4
+joblib
+sklearn
+
